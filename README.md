@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=300&section=header&text=Seunghwan's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=FFFFFF)
 
 <p align="center">
+안녕하세요👐<br>
+저의 github에 오신걸 환영합니다.
+</p>
+
+<p align="center">
 <Strong>📧Email📧</Strong><br>tmdghks161952@gmail.com<br>
 
 </p>
 
 <br>
-
-<p align="center">
-안녕하세요👐<br>
-저의 github에 오신걸 환영합니다.
-</p>
 
 <br>
 
