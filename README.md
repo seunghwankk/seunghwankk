@@ -1,13 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=81C5E7&height=300&section=header&text=Jimyoung's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=FFFFFF)
-
-<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=300&section=header&text=Seunghwan's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=FFFFFF)
 
 <p align="center">
-    <Strong>☁️Portfolio List☁️</Strong><br><br>
-    notion link :  <a href="https://ljimyeong.notion.site/fdef40653ec546b1988542560d30ce4b" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-    <br>
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJMyoung98%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<br><br>
 <Strong>📧Email📧</Strong><br>dlwlaud8331@gmail.com<br>
 
 </p>
@@ -71,7 +64,7 @@
 
 <div align="center">
     
-![JMlee's github stats](https://github-readme-stats.vercel.app/api?username=seunghwankk&show_icons=true)
+![Seunghwan's github stats](https://github-readme-stats.vercel.app/api?username=seunghwankk&show_icons=true)
 ![Language Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghwankk&langs_count=10)
     
 </div>
